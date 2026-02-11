@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
             <div className="flex flex-col">
               <div className="text-2xl font-bold flex items-center">
                 <span className="text-white">SRI AMULYA</span>
-                <span className="text-gold ml-2">TECH</span>
+                <span className="text-gold ml-2">TECHNOLOGIES</span>
               </div>
               <div className="text-[10px] font-bold tracking-[0.2em] text-white/50 uppercase mt-1">
                 Private Limited
@@ -89,7 +89,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="pt-10 border-t border-white/10 flex flex-col md:flex-row justify-between items-center text-xs text-gray-500 gap-4">
-          <p>© 2024 Sri Amulya Technologies Private Limited. All rights reserved.</p>
+          <p>© 2026 Sri Amulya Technologies Private Limited. All rights reserved.</p>
           <div className="flex space-x-6">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Quality Policy</a>
