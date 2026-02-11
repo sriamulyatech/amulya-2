@@ -7,8 +7,8 @@ const TopNotice: React.FC = () => {
     { icon: <Award size={14} />, text: "ISO 9001:2015 Certified | Quality Management System Accredited" },
     { icon: <ShieldCheck size={14} />, text: "DPIIT Recognized Startup (DIPP243231) | Govt. of India" },
     { icon: <Zap size={14} />, text: "New Batches: Full Stack Development & EV Technologies starting next Monday!" },
-    { icon: <Bell size={14} />, text: "Admissions Open for Fashion Designing Diploma 2024-25" },
-    { icon: <Award size={14} />, text: "100% Placement Assistance with 500+ MNC Hiring Partners" }
+    { icon: <Bell size={14} />, text: "Admissions Open " },
+    { icon: <Award size={14} />, text: "90% Placement Assistance " }
   ];
 
   return (
