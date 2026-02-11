@@ -17,7 +17,7 @@ export const getGeminiChatResponse = async (message: string) => {
         - Incorporation Date: 30-01-2026
         - Startup India Recognition: Recognized by DPIIT (Certificate No: DIPP243231)
         - Industry Sector: Education Industry, Skill Development, and Multi-vertical Tech Solutions.
-        - Registered Address: 7-1-263/1/C, GM Colony, Peddapalli, Godavarikhani, Karim Nagar, Ramagundam, Telangana - 505209.
+        - Address: Prajapathasala Complex, Gouthami Nager, Godavarikhani, Dist:peddapalli, Mandel:Ramagundam, Telangana , India - 505209.
         
         Expanded Business Portfolio:
         1. IT Courses & Training: Full Stack Development, Cloud Computing, Data Science, Cyber Security, etc.
