@@ -136,7 +136,7 @@ export const SPECIAL_PROGRAMS = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: '1',
-    name: 'Rajesh Kumar',
+    name: 'Akash',
     role: 'Software Engineer',
     company: 'TCS',
     content: 'The training at Sri Amulya was transformative. The hands-on projects helped me land a job at a top MNC.',
@@ -144,7 +144,7 @@ export const TESTIMONIALS: Testimonial[] = [
   },
   {
     id: '2',
-    name: 'Anjali Sharma',
+    name: 'kumar',
     role: 'Data Analyst',
     company: 'Infosys',
     content: 'Excellent mentors and placement support. I highly recommend their Data Science program.',
@@ -152,7 +152,7 @@ export const TESTIMONIALS: Testimonial[] = [
   },
   {
     id: '3',
-    name: 'Vikram Singh',
+    name: 'pavan',
     role: 'Cloud Architect',
     company: 'Amazon Web Services',
     content: 'Sri Amulya Technologies is the best place for career transitions in the IT sector.',
