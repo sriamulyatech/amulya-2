@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
               <span className="relative flex h-2 w-2">
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-gold"></span>
               </span>
-              <span>Admissions Open 2024-25</span>
+              <span>Admissions Open </span>
             </div>
             <div className="inline-flex items-center space-x-2 bg-white/10 border border-white/20 px-3 py-1 rounded-full text-white text-[10px] font-bold uppercase tracking-wider">
               <ShieldCheck size={14} className="text-gold" />
